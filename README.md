@@ -51,6 +51,7 @@ imagem.
 │ ├── docpdf.ico
 │ └── docpdf.png
 ├── preview.png       # Imagem do app aberto
+├── requirements.txt  # Dependências do projeto
 ├── LICENSE           # Licença MIT
 └── README.md         # Documentação do projeto
 ```
